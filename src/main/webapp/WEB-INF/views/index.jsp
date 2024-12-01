@@ -2,7 +2,7 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>It's working on Tomcat server(9.0.65)</h2>
+    <h2>It's working on Tomcat server(9.0.7)</h2>
     <h2>Hello World</h2>
     <h3>Spring !!!</h3>
     <h3>Spring !!!</h3>
